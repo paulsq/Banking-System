@@ -1,2 +1,2 @@
 # Banking-System
-A banking Application using JAVA
+A banking System Application using JAVA
